@@ -1,5 +1,5 @@
 h1{
-    margin:2rem;
+    margin:0;
     padding:0;
     font-size: 4rem !important;
     font-weight:lighter !important;
@@ -13,10 +13,10 @@ h1{
 
 .home h2{
     color:black;
-    margin:2;
+
     padding:2em 0 rem !important;
     font-size: 2rem !important;
     font-weight: lighter !important;
-    padding-bottom: 2vh !important;
+   
 }
 
