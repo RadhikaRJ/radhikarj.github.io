@@ -18,10 +18,10 @@ export default function ExperiencePage() {
                 data management systems.
               </li>
               <li>
-                Discovering an innovative method that leverages contemporary
+                Discovering an innovative method that leverages latest
                 technological progress, testing its practical application, and
-                disseminating the findings through publication constitute
-                significant achievements of this research endeavor.
+                sharing the findings through publication constitute significant
+                achievements of this research endeavor.
               </li>
               <li>
                 Viewed from an industrial standpoint, this research opportunity
@@ -29,6 +29,9 @@ export default function ExperiencePage() {
                 fundamental technology, methodologies, and algorithms essential
                 for the successful implementation of various big data and
                 database management systems.
+              </li>
+              <li>
+                Submitted a Vision paper to IEEE Big Data Conference 2023.
               </li>
             </ul>
           </div>
