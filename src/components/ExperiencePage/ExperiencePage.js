@@ -12,50 +12,42 @@ export default function ExperiencePage() {
             <p>July 2023 to present</p>
             <ul>
               <li>
-                Engaged as part of the Databases and Information Systems (DBIS)
-                Lab, we are actively involved in extensive research concerning
-                query scheduling and resource management within the realm of big
-                data management systems.
+                Compared popular Big Data Management Systems on query scheduling
+                and resource management techniques to identify current
+                challenges and enhancement opportunities.
               </li>
               <li>
-                Discovering an innovative method that leverages latest
-                technological progress, testing its practical application, and
-                sharing the findings through publication constitute significant
-                achievements of this research endeavor.
-              </li>
-              <li>
-                Viewed from an industrial standpoint, this research opportunity
-                opens a pathway to gain comprehensive insights into the
-                fundamental technology, methodologies, and algorithms essential
-                for the successful implementation of various big data and
-                database management systems.
-              </li>
-              <li>
-                Submitted a Vision paper to IEEE Big Data Conference 2023.
+                Submitted a vision paper to the IEEE Big Data Conference 2023.
               </li>
             </ul>
           </div>
           <div>
-            <h2>Software Engineer- Quality Assurance Analyst</h2>
+            <h2>Software Engineer</h2>
             <p>TIAA - Pune, India</p>
             <p>July 2018 - April 2022</p>
             <ul>
               <li>
-                Worked with Adobe Campaign Client Console tool and performed
-                validation of the entire campaign across communication channels
-                (Email, SMS, Web UI & Push Notifications) leading to a
-                significant rise in onboarding new customers and enhancing
-                existing customer engagement.
+                Contributed to a JAVA based service to abstract customer
+                communication tools from all TIAA financial products, resulting
+                in better communication experience and 60% improvement in
+                operational efficiency through unified monitoring and alerting.
+                <li>
+                  Worked on a real time communication preference update feature
+                  that led to 20% decrease in the communications volume.
+                </li>
+                <li>
+                  {" "}
+                  Worked on a data monitoring system to track changes in user
+                  subscription preferences and send alerts when it led to email
+                  volume change beyond a certain threshold. This provided
+                  business with valuable insights into impact of customer
+                  decisions and helped identify and fix bugs in the ETL
+                  pipeline.
+                </li>
               </li>
               <li>
-                Increased operational efficiency by automating REST API
-                testing.(Cucumber BDD Framework, Selenium)
-              </li>
-              <li>
-                Performed functional testing, integration testing, system
-                testing, data validation, Web UI & UAT Testing, Dark-Live mode
-                Validation, A/B Testing, suppression and rule based validation
-                for major, minor and warranty releases.
+                Worked on a RESTful service to trigger ETL pipelines for
+                pre-processing and storing communications preference data.
               </li>
             </ul>
           </div>
