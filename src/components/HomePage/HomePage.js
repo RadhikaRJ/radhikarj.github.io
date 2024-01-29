@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import "./HomePage.css";
-import Resume from "../../assets/Radhika_Joshi_Resume.pdf";
+import Resume from "../../assets/Recent_resume/SM_Resume/RadhikaJoshi_Resume.pdf";
 import AboutPage from "../AboutPage/AboutPage";
 import ExperiencePage from "../ExperiencePage/ExperiencePage";
 import PortfolioPage from "../PortfolioPage/PortfolioPage";

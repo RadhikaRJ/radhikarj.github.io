@@ -65,7 +65,7 @@ export default function PortfolioPage() {
               <div className="card-button-container">
                 <Button
                   variant="primary"
-                  href="https://rj-baghbaani.netlify.app/favorites"
+                  href="https://rj-baghbaani.netlify.app/"
                   target="_blank"
                   style={{ margin: "0.2rem" }}
                 >
