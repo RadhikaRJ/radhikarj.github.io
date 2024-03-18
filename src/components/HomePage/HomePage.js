@@ -22,9 +22,7 @@ export default function HomePage() {
         <h2>
           Software Engineer,{" "}
           <a href="https://www.credly.com/badges/e379b120-ac6d-42bc-a547-c4801c3e3df5/linked_in?t=s9usp3">
-            <strong>
-              AWS Certified Solution Architect Associate (AWS SAA-C03)
-            </strong>
+            <strong>AWS SAA-C03</strong>
           </a>
         </h2>
         <h2></h2>

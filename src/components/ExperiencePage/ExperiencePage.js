@@ -7,7 +7,15 @@ export default function ExperiencePage() {
         <h1>Experience</h1>
         <div className="experience-container">
           <div>
-            <h2>AWS Certified Solution Architect Associate (AWS SAA C03)</h2>
+            <h2>Certifications</h2>
+            <p>
+              {" "}
+              <a href="https://www.credly.com/badges/e379b120-ac6d-42bc-a547-c4801c3e3df5/linked_in?t=s9usp3">
+                <strong>
+                  AWS Certified Solution Architect Associate (AWS SAA-C03)
+                </strong>
+              </a>
+            </p>
           </div>
           <div>
             <h2>Graduate Research Assistant- DBIS Lab</h2>
