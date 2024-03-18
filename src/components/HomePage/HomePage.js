@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import "./HomePage.css";
-import Resume from "../../assets/Recent_resume/SM_Resume/RadhikaJoshi_Resume.pdf";
+import Resume from "../../assets/Recent_resume/Mar12/RadhikaJoshi_Resume.pdf";
 import AboutPage from "../AboutPage/AboutPage";
 import ExperiencePage from "../ExperiencePage/ExperiencePage";
 import PortfolioPage from "../PortfolioPage/PortfolioPage";
@@ -19,7 +19,13 @@ export default function HomePage() {
     <>
       <div className="home" style={myStyle}>
         <h1>Radhika Joshi</h1>
-        <h2>Software Engineer</h2>
+        <h2>
+          Software Engineer,{" "}
+          <a href="https://www.credly.com/badges/e379b120-ac6d-42bc-a547-c4801c3e3df5/linked_in?t=s9usp3">
+            AWS Certified Solution Architect Associate (AWS SAA-C03)
+          </a>
+        </h2>
+        <h2></h2>
         <Button
           className="resume-button"
           variant="dark"
