@@ -22,12 +22,12 @@ export default function AboutPage() {
             <p>
               Hi, I'm pursuing Masters in Computer Science and Engineering at
               Santa Clara University, CA and on track to graduate in June 2024.
-              I'm actively seeking full-time Software Engineering roles and
-              Co-op opportunities. Besides my enthusiasm for software and web
-              application development, I delight in hiking, traveling, nature
-              photography and practicing Yoga. Residing in Milpitas, CA. Happy
-              to connect with you and share more on leveraging my technical
-              expertise to benefit your team and organisation.{" "}
+              I'm actively seeking full-time Software Engineering roles. Besides
+              my enthusiasm for software and web application development, I
+              delight in hiking, traveling, nature photography and practicing
+              Yoga. Residing in Milpitas, CA. Happy to connect with you and
+              share more on leveraging my technical expertise to benefit your
+              team and organisation.{" "}
             </p>
           </div>
           <div className="container2-2">

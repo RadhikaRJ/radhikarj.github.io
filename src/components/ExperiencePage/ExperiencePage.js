@@ -7,6 +7,9 @@ export default function ExperiencePage() {
         <h1>Experience</h1>
         <div className="experience-container">
           <div>
+            <h2>AWS Certified Solution Architect Associate (AWS SAA C03)</h2>
+          </div>
+          <div>
             <h2>Graduate Research Assistant- DBIS Lab</h2>
             <p>Santa Clara University, CA</p>
             <p>July 2023 to present</p>
