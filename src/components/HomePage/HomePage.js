@@ -1,11 +1,12 @@
 import Button from "react-bootstrap/Button";
 import "./HomePage.css";
-import Resume from "../../assets/Recent_resume/Mar12/RadhikaJoshi_Resume.pdf";
+import Resume from "../../assets/RadhikaJoshi_Resume.pdf";
 import AboutPage from "../AboutPage/AboutPage";
 import ExperiencePage from "../ExperiencePage/ExperiencePage";
 import PortfolioPage from "../PortfolioPage/PortfolioPage";
 import ContactPage from "../ContactPage/ContactPage";
 
+//npm run deploy after commiting and pushing the changes.
 export default function HomePage() {
   const myStyle = {
     backgroundImage: `url(https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg)`,
