@@ -1,15 +1,11 @@
 .portfolio {
     margin: 0;
-    padding: 5rem;
+    padding: 20px;
     text-align: left;
 }
 
 .portfolio-container {
-    margin: 0;
-    padding: 3rem 0rem;
     display: flex;
-    justify-content: center;
-    flex-direction: row;
     flex-wrap: wrap;
 }
 
@@ -36,3 +32,22 @@
     display:flex;
     position:relative;
  }
+
+ .card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    justify-content: space-between;
+ }
+
+ .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+ }
+.image-specifications{
+    width:400px;
+    height: 360px;
+}

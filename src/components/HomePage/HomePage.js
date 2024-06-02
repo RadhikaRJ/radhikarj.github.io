@@ -21,12 +21,11 @@ export default function HomePage() {
       <div className="home" style={myStyle}>
         <h1>Radhika Joshi</h1>
         <h2>
-          <strong>Software Engineer</strong>,{" "}
-          <a href="https://www.credly.com/badges/e379b120-ac6d-42bc-a547-c4801c3e3df5/linked_in?t=s9usp3">
+          <strong>Full Stack Developer</strong>
+          {/* <a href="https://www.credly.com/badges/e379b120-ac6d-42bc-a547-c4801c3e3df5/linked_in?t=s9usp3">
             <strong>AWS SAA-C03</strong>
-          </a>
+          </a> */}
         </h2>
-        <h2></h2>
         <Button
           className="resume-button"
           variant="dark"

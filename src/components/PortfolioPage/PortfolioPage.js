@@ -11,11 +11,12 @@ export default function PortfolioPage() {
       <div id="portfolio" className="portfolio">
         <h1>Portfolio</h1>
         <div className="portfolio-container">
-          <Card bg="light">
+          <Card bg="light" className="card-container">
             <Card.Img
               variant="top"
               src={imageGallery}
               alt="Image Gallery Application"
+              className="image-specifications"
             />
             <Card.Body>
               <Card.Title>MobileShots: Image Gallery Application</Card.Title>
@@ -26,7 +27,7 @@ export default function PortfolioPage() {
                 implementing client-side routing with React-Router V6. Finally
                 the React SPA is deployed using Firebase Hosting.
               </Card.Text>
-              <div className=" card-button-container">
+              <div className="card-button-container">
                 <Button
                   variant="primary"
                   href="https://firestock-a5cda.web.app/"
@@ -47,11 +48,12 @@ export default function PortfolioPage() {
             </Card.Body>
           </Card>
 
-          <Card bg="light">
+          <Card bg="light" className="card-container">
             <Card.Img
               variant="top"
               src={videoLibrary}
               alt="Video Library Application"
+              className="image-specifications"
             />
             <Card.Body>
               <Card.Title>Baghbani: Gardening Video Library App</Card.Title>
@@ -83,13 +85,14 @@ export default function PortfolioPage() {
             </Card.Body>
           </Card>
 
-          <Card bg="light">
+          <Card bg="light" className="card-container">
             <Card.Img
               variant="top"
               src={uiElegance}
               alt="UIElegance: A UI Component Library"
+              className="image-specifications"
             />
-            <Card.Body>
+            <Card.Body className="card-body">
               <Card.Title>UIElegance: A UI Component Library </Card.Title>
               <Card.Text>
                 A CSS HTML library that provides all the building blocks you
