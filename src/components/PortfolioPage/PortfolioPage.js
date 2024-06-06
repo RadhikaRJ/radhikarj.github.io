@@ -4,6 +4,7 @@ import "./PortfolioPage.css";
 import imageGallery from "../../assets/ImageGalleryProject.png";
 import videoLibrary from "../../assets/VideoLibraryProject.png";
 import uiElegance from "../../assets/UIEleganceProject.png";
+import gardengoods from "../../assets/gardengoods.png";
 
 export default function PortfolioPage() {
   return (
@@ -14,8 +15,47 @@ export default function PortfolioPage() {
           <Card bg="light" className="card-container">
             <Card.Img
               variant="top"
+              src={gardengoods}
+              alt="Full stack application for gardening"
+              className="image-specifications"
+            />
+            <Card.Body>
+              <Card.Title>
+                Garden Goods: Full Stack application for Plant Nursery
+              </Card.Title>
+              <Card.Text>
+                Full Stack web application with product listing page, product
+                detail page, user-registration, user authentication, user-login
+                and management. Other features include add/remove items from
+                cart, add/remove items from wishlist. It also displays a cart
+                summary. Built with MongoDB, Express, React, Node.
+              </Card.Text>
+              <div className="card-button-container">
+                <Button
+                  variant="primary"
+                  href="https://gardengoods-rj.netlify.app/"
+                  target="_blank"
+                  style={{ margin: "0.2rem" }}
+                >
+                  Visit
+                </Button>
+                <Button
+                  variant="secondary"
+                  href="https://github.com/RadhikaRJ/ecommerce"
+                  target="_blank"
+                  style={{ margin: "0.2rem" }}
+                >
+                  Github
+                </Button>
+              </div>
+            </Card.Body>
+          </Card>
+
+          <Card bg="light" className="card-container">
+            <Card.Img
+              variant="top"
               src={imageGallery}
-              alt="Image Gallery Application"
+              alt="Image Gallery full-stack application"
               className="image-specifications"
             />
             <Card.Body>
